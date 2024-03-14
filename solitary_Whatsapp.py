@@ -1,3 +1,6 @@
+
+# a single person chat
+
 import os
 
 mensagens = []
